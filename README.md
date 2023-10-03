@@ -21,7 +21,7 @@ This Python script calculates the eigenvalues and eigenvectors of a 3x3 matrix e
 
 7. Calculate Eigenvectors: The script will then proceed to calculate and display the eigenvectors for each eigenvalue.  
 
-### Note
+## Note
 This script is designed for educational purposes and may not cover all edge cases. Please ensure your matrix is properly formatted and suitable for eigenvalue and eigenvector calculations before using this script in practical applications.  
 
 
