@@ -1,6 +1,6 @@
 # Matrix Eigenvalue and Eigenvector Calculator
 
-This Python script calculates the eigenvalues and eigenvectors of a 3x3 matrix entered by the user. It also generates the characteristic equation for the matrix. The script is designed to interactively take input from the user and provides a step-by-step explanation of the calculations.
+This Python script is designed to help users calculate the eigenvalues and eigenvectors of a 3x3 matrix they provide. Additionally, it generates the characteristic equation for the matrix. The script offers an interactive interface, guiding the user through the input process and providing a detailed, step-by-step explanation of the calculations.
 
 ## Usage
 
